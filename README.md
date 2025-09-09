@@ -9,19 +9,9 @@ Proyek ini adalah aplikasi blog modern berbasis **[Laravel](https://laravel.com/
 - 🔐 **Autentikasi** (Register & Login kustom dengan keamanan tingkat tinggi)
 - 📰 **Manajemen Artikel** (CRUD artikel dengan editor modern)
 - 🏷️ **Kategori & Tag** untuk mengorganisir konten
-- 💬 **Komentar** dengan validasi & moderasi
 - 👤 **Profil Pengguna** (avatar, bio, dan cover profile)
 - 🔍 **Pencarian Artikel** cepat & responsif
 - 📱 **Desain Responsif** (mobile-friendly)
-<<<<<<< HEAD
-- 💸 **Fitur Donasi** (opsional untuk dukungan pembaca)
-
----
-
-## 🖼️ Preview
-![Blog Laravel Screenshot](https://via.placeholder.com/1200x600.png?text=Laravel+Blog+Preview)
-=======
->>>>>>> c120d704fb0e95b609fb4993fdd24e7634e8a7c8
 
 ---
 
