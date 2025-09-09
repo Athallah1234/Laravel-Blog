@@ -18,17 +18,12 @@ Proyek ini adalah aplikasi blog modern berbasis **[Laravel](https://laravel.com/
 
 ---
 
-## 🖼️ Preview
-![Blog Laravel Screenshot](https://via.placeholder.com/1200x600.png?text=Laravel+Blog+Preview)
-
----
-
 ## 🚀 Teknologi yang Digunakan
 - **Backend**: [Laravel 10+](https://laravel.com/)
 - **Frontend**: [Bootstrap 5](https://getbootstrap.com/) & [Blade Templating](https://laravel.com/docs/blade)
 - **Database**: MySQL / MariaDB
-- **Authentication**: Laravel Breeze / Custom Auth
-- **Deployment**: Nginx + Ubuntu Server (rekomendasi)
+- **Authentication**: Custom Auth
+- **Deployment**: Apache
 
 ---
 
