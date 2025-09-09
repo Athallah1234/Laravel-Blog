@@ -13,7 +13,6 @@ Proyek ini adalah aplikasi blog modern berbasis **[Laravel](https://laravel.com/
 - 👤 **Profil Pengguna** (avatar, bio, dan cover profile)
 - 🔍 **Pencarian Artikel** cepat & responsif
 - 📱 **Desain Responsif** (mobile-friendly)
-- 🌙 **Mode Gelap & Terang** untuk kenyamanan membaca
 - 💸 **Fitur Donasi** (opsional untuk dukungan pembaca)
 
 ---

@@ -155,59 +155,6 @@
           <img src="{{ $article->thumbnail ? asset('storage/' . $article->thumbnail) : 'https://source.unsplash.com/800x400/?technology' }}" alt="{{ $article->title }}" class="hero-image">
           {!! $article->content !!}
         </article>
-
-        <!-- Comments Section -->
-        <div class="mt-5">
-          <h4>Komentar (3)</h4>
-
-          <div class="d-flex comment">
-            <div class="avatar">
-              <img src="https://source.unsplash.com/50x50/?person" alt="Avatar">
-            </div>
-            <div class="comment-body">
-              <h6 class="mb-1">Rina</h6>
-              <p>Artikel ini sangat membantu, tipsnya mudah diterapkan. Terima kasih!</p>
-            </div>
-          </div>
-
-          <div class="d-flex comment">
-            <div class="avatar">
-              <img src="https://source.unsplash.com/50x50/?face" alt="Avatar">
-            </div>
-            <div class="comment-body">
-              <h6 class="mb-1">Budi</h6>
-              <p>Saya suka bagian Pomodoro, sangat efektif untuk fokus kerja.</p>
-            </div>
-          </div>
-
-          <div class="d-flex comment">
-            <div class="avatar">
-              <img src="https://source.unsplash.com/50x50/?user" alt="Avatar">
-            </div>
-            <div class="comment-body">
-              <h6 class="mb-1">Siti</h6>
-              <p>Tidak sabar menunggu artikel berikutnya!</p>
-            </div>
-          </div>
-
-          <!-- Comment Form -->
-          <div class="mt-4">
-            <h5>Tulis Komentar</h5>
-            <form>
-              <div class="mb-3">
-                <input type="text" class="form-control" placeholder="Nama">
-              </div>
-              <div class="mb-3">
-                <input type="email" class="form-control" placeholder="Email">
-              </div>
-              <div class="mb-3">
-                <textarea class="form-control" rows="4" placeholder="Komentar Anda"></textarea>
-              </div>
-              <button type="submit" class="btn btn-primary">Kirim</button>
-            </form>
-          </div>
-        </div>
-
       </div>
 
       <!-- Sidebar -->
